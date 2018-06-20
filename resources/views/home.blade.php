@@ -6,7 +6,7 @@ Algebra Blog
 
 @section('content')
 	@if($posts->count() > 0)
-		
+	
 	@else
 		<h1>Trenutno nema objava!</h1>
 	@endif
