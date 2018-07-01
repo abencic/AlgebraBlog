@@ -63,7 +63,7 @@ class Post extends Model
 	}
 	
 	/**
-     * Return the post relationship.
+     * Return the comment relationship.
      *
      * @return \Illuminate\Database\Eloquent\Relations\HasMany
      */
